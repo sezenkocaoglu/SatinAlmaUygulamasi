@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "title": "Sakız",
+        "price": 9,
+        "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 25,
+        "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 20000,
+        "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 5000000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTcFCTr0LZCY78jnIWt9lm5qYvvMsjTvpDoNwDbnSlu12eHbmJ0XxwMo95rrV707LME4&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "title": "Gemi",
+        "price": 80000000,
+        "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+    },
+    {
+        "id": 6,
+        "title": "Bilgisayar",
+        "price": 25000,
+        "image": "https://www.giloshop.com/media/catalog/product/cache/c1c27d1a455ff29a5dbcf79215d5cda9/h/p/hp_290_g4_desktop_pc_intel_core_i3_10th_gen_4gb_ddr4_ram_1tb_hdd.jpg  "
+    },
+    {
+        "id": 7,
+        "title": "Kazak",
+        "price": 7000,
+        "image": "https://cdn-gap.akinon.net/products/2022/01/07/279750/757ea4c3-e9dd-48c3-b1e0-cc90b9366534_size520x693_cropCenter.jpg"
+    },
+    {
+        "id": 8,
+        "title": "iPad Pro",
+        "price": 17000,
+        "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Çanta",
+        "price": 50000,
+        "image": "https://st2.myideasoft.com/shop/ce/34/myassets/products/904/pr_01_12904_min.jpg?revision=1406109573"
+    },
+    {
+        "id": 10,
+        "title": "Elmas Yüzük",
+        "price": 157878777,
+        "image": "https://i.pinimg.com/474x/15/23/20/152320177946ef7ccda4af8095bf8b9d--ruby-engagement-rings-mother-rings.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Pantolon",
+        "price": 1000,
+        "image": "https://sarar.com/sarar-premium-nesta-kot-pantolon-10749-denim-pantolon-sarar-premium-24174-10-K.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Stadyum",
+        "price": 10000000,
+        "image": "https://evermotion.org/files/newsletter/210216/gallery_06.jpg"
+    }
+]
